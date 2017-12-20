@@ -22,7 +22,7 @@ console.log("mapped");
 
 ///2. Adding the markers
 // now add the marker here, with a popup text explaining the marker
-L.marker([-25.262, -57.581]).addTo(map)
+L.marker([42.364506, -71.038887]).addTo(map)
     .bindPopup('Asuncion, Paraguay')
     .addTo(map);
 
